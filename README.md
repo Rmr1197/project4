@@ -108,11 +108,15 @@ In this part, data can be at any time from any location listed in this link.
 		
 a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 
-Looking at the oregon shelf site, we can see that there are lower spectral levels 
+Looking at the Oregon Shelf site, we can see that there are lower spectral levels at lower frequencies in cases where there is only rain or only wind. Looking at figures 10 and 11, we observe the range only going up to 108, instead of 120 where it does in the cases of either both wind and rain, or neither of the two, in figures 9 and 12. In a case of no wind and no rain, figure 9, we see that higher frequencies have a higher spectrum level, indicated by the brighter color.
 
 b) Which one has the highest impact? Rain or wind?
 
+In the Oregon Offshore site, during a period of wind and no rain, figure 15, we see the highest spectrum level for frequencies than any other site at any other period. We also notice that in figure 14, the lack of rain also shows a brighter color representing  higher spectral level. Cases of wind and rain, and no wind and no rain both look very similar in terms of spectral level at this site. 
+
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
+
+The offshore site, as the name implies, is offshore. Sites further out can have deeper depths, and cause the sound to reflect less than sites further inshore. 
 
 ## Solution - Part 2
 
