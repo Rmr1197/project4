@@ -1,4 +1,4 @@
-# Project 4: Plate Tectonics Assignment
+# Project 4: Hydrophone Project
 Robert Reiten 
 
 11 March 2020
@@ -9,6 +9,8 @@ Code Link
 https://github.c
 
 ## Problem Statement
+
+## Part 1 Wind and Rain Noise
 
 We are to answer questions that involve hydrophone data
 
@@ -22,13 +24,25 @@ b) Which one has the highest impact? Rain or wind?
 
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 
+## Part 2 Airgun, Marine Mammals, Earthquake/Volcano Noise
+
+In this part, data can be at any time from any location listed in this link.
+
+1) Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
+
+2) Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.
+
+3) Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
+
+4) Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
+
 ## Solution - Part 1
 
 ### 7) In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/1.PNG" height="250" width="350">
+<img src="https://github.com/Rmr1197/project4/blob/master/Images/1.PNG" height="250" width="350">
 
-		Figure 1: Earthquake magnitude vs time of the year
+		Figure 1: 𝑃𝑆𝐷𝑑𝐵 vs Frequency - Oregon Shelf - No wind and no rain - March 13 2019
 
 ### 8) Compare the spectral levels and answer these questions:
 
