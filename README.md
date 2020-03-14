@@ -86,7 +86,7 @@ In the Oregon Offshore site, during a period of wind and no rain, figure 15, we 
 
 ### c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 
-The offshore site, as the name implies, is offshore. Sites further out can have deeper depths, and cause the sound to reflect less than sites further inshore. 
+The offshore site, as the name implies, is offshore. Sites further out can have deeper depths, and cause the sound to reflect less than sites further inshore. There may also be different variations inmarine life that can affect both ambient noise as well as noise reflections when recording data. 
 
 ## Solution - Part 2
 
