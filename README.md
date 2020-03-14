@@ -94,10 +94,22 @@ In this part, data can be at any time from any location listed in this link.
 
 ### 1) Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
 
+<img src="https://github.com/Rmr1197/project4/blob/master/Images/17.PNG" height="250" width="350">
+
+		Figure 9: Spectrogram Data for Period of Mammal Vocalization
+		
 ### 2) Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.
 
+<img src="https://github.com/Rmr1197/project4/blob/master/Images/18.PNG" height="250" width="350">
+
+		Figure 10: Spectrogram Data for Period of Airgun Noise
+		
 ### 3) Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
 
+<img src="https://github.com/Rmr1197/project4/blob/master/Images/19.PNG" height="250" width="350">
+
+		Figure 11: Spectrogram Data for Period of Earthquake
+		
 ### 4) Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
 
 ## References
