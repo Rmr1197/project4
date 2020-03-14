@@ -92,12 +92,6 @@ The offshore site, as the name implies, is offshore. Sites further out can have 
 
 In this part, data can be at any time from any location listed in this link.
 
-The Wenz curve here is taken from National Academic Press:
-
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/20.PNG" height="350" width="250">
-
-		Figure 9: Wenz Curve
-
 ### 1) Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
 
 <img src="https://github.com/Rmr1197/project4/blob/master/Images/17.PNG" height="250" width="350">
@@ -118,9 +112,17 @@ The Wenz curve here is taken from National Academic Press:
 		
 ### 4) Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
 
-1) <img src="https://github.com/Rmr1197/project4/blob/master/Images/21.PNG" height="250" width="350">
+The Wenz curve here is taken from Ocean Noise and Marine Mammals:
 
-		Figure 13: Spectrogram Data for Period of Earthquake
+<img src="https://github.com/Rmr1197/project4/blob/master/Images/20.PNG" height="350" width="250">
+
+		Figure 9: Wenz Curve from Ocean Noise and Marine Mammals
+
+1) In the data marine mammal vocalization we notice a range of frequencies of about 200 Hz in the upper 1000 and 800 Hz frequencies that show higher relative spectral levels, around 70. This is consistent with Sperm Whale vocalization found on the spectrogram data below. These whales have a large frequency range around 1000 Hz at spectral levels of 55-65. Biologic noise on the Wenz curve shows a very large range of frequency at high spectral level. The frequency may be consistent, but based just on the Wenz curve, we cannot make a conclusion.
+
+<img src="https://github.com/Rmr1197/project4/blob/master/Images/21.PNG" height="250" width="350">
+
+		Figure 13: Spectrogram Data for Period of Earthquake from Ocean Noise and Marine Mammals
 
 2) According to nih.gov, airguns can produce a wide range of frequencies. Due to this, it is hard to pinpoint specific cases of airgun noise. The data I have found contains small patterns which may indicate the repetitive nature of airguns. They are in a higher frequency range, around 0-1000 at the 14 second mark. The closest we can trace airgun noise to on the Wenz curve would be ships/industrial/activity, which confirms our findings, coming in at anywhere from 10-10000 Hz, with high spectral density.
 
