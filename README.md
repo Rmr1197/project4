@@ -74,37 +74,7 @@ In this part, data can be at any time from any location listed in this link.
 
 ### 8) Compare the spectral levels and answer these questions:
 
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/9.PNG" height="250" width="350">
 
-		Figure 9: Spectral Levels - Oregon Shelf - No wind and no rain - March 13 2019
-		
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/10.PNG" height="250" width="350">
-
-		Figure 10: Spectral Levels - Oregon Shelf - Wind and No Rain - January 20 2019
-		
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/11.PNG" height="250" width="350">
-
-		Figure 11: Spectral Levels - Oregon Shelf - Rain and No Wind - January 7 2019
-		
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/12.PNG" height="250" width="350">
-
-		Figure 12: Spectral Levels - Oregon Shelf - Wind and Rain - January 1 2019
-		
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/13.PNG" height="250" width="350">
-
-		Figure 13: Spectral Levels - Oregon Offshore -No wind and no rain - January 13 2019
-		
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/14.PNG" height="250" width="350">
-
-		Figure 14: Spectral Levels - Oregon Offshore - Wind and No Rain - January 6 2019
-		
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/15.PNG" height="250" width="350">
-
-		Figure 15: Spectral Levels - Oregon Offshore - Rain and No Wind - January 19 2019
-		
-<img src="https://github.com/Rmr1197/project4/blob/master/Images/16.PNG" height="250" width="350">
-
-		Figure 16: Spectral Levels - Oregon Offshore - Wind and Rain - January 1 2019
 		
 ### a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 
