@@ -10,7 +10,7 @@ https://github.c
 
 ## Problem Statement
 
-## Part 1 Wind and Rain Noise
+#### Part 1 Wind and Rain Noise
 
 We are to answer questions that involve hydrophone data
 
@@ -24,7 +24,7 @@ b) Which one has the highest impact? Rain or wind?
 
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 
-## Part 2 Airgun, Marine Mammals, Earthquake/Volcano Noise
+#### Part 2 Airgun, Marine Mammals, Earthquake/Volcano Noise
 
 In this part, data can be at any time from any location listed in this link.
 
