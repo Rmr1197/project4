@@ -92,27 +92,42 @@ The offshore site, as the name implies, is offshore. Sites further out can have 
 
 In this part, data can be at any time from any location listed in this link.
 
+The Wenz curve here is taken from National Academic Press:
+
+<img src="https://github.com/Rmr1197/project4/blob/master/Images/20.PNG" height="350" width="250">
+
+		Figure 9: Wenz Curve
+
 ### 1) Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
 
 <img src="https://github.com/Rmr1197/project4/blob/master/Images/17.PNG" height="250" width="350">
 
-		Figure 9: Spectrogram Data for Period of Mammal Vocalization
+		Figure 10: Spectrogram Data for Period of Mammal Vocalization
 		
 ### 2) Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.
 
 <img src="https://github.com/Rmr1197/project4/blob/master/Images/18.PNG" height="250" width="350">
 
-		Figure 10: Spectrogram Data for Period of Airgun Noise
+		Figure 11: Spectrogram Data for Period of Airgun Noise
 		
 ### 3) Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
 
 <img src="https://github.com/Rmr1197/project4/blob/master/Images/19.PNG" height="250" width="350">
 
-		Figure 11: Spectrogram Data for Period of Earthquake
+		Figure 12: Spectrogram Data for Period of Earthquake
 		
 ### 4) Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
 
+1) <img src="https://github.com/Rmr1197/project4/blob/master/Images/21.PNG" height="250" width="350">
+
+		Figure 13: Spectrogram Data for Period of Earthquake
+
+2) According to nih.gov, airguns can produce a wide range of frequencies. Due to this, it is hard to pinpoint specific cases of airgun noise. The data I have found contains small patterns which may indicate the repetitive nature of airguns. They are in a higher frequency range, around 0-1000 at the 14 second mark. The closest we can trace airgun noise to on the Wenz curve would be ships/industrial/activity, which confirms our findings, coming in at anywhere from 10-10000 Hz, with high spectral density.
+
+3) When looking at Earthquakes we refer to the Wenz curve. Earthquakes range from 0-100 Hz frequency and have a higher spectrum level around 150. Looking at our data we can see that there is some seismic activity at the 17 second mark, that shows frequencies of around 20-70 Hz. The spectrum level may confirm our findings, although coming in at a lower level, it still shows relatively higher levels than ambient levels. We know that this higher spectral density at lower frequency is a good case for seismic activity. 
+
 ## References
 
-“A Collection of Sounds from the Sea,” NOAA Ocean Explorer Podcast RSS. [Online]. Available: https://oceanexplorer.noaa.gov/explorations/sound01/background/seasounds/seasounds.html. [Accessed: 11-Mar-2020].
+L. Hermannsen, J. Tougaard, K. Beedholm, J. Nabe-Nielsen, and P. T. Madsen, “Characteristics and Propagation of Airgun Pulses in Shallow Water with Implications for Effects on Small Marine Mammals,” PloS one, 27-Jul-2015. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516352/. [Accessed: 14-Mar-2020].
 
+Ocean noise and marine mammals. Washington, D.C.: National Academic Press, 2003.
